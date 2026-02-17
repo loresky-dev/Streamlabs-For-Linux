@@ -23,7 +23,7 @@ First off you need to run: ```winetricks corefonts``` To install fonts so, you s
 
 Then type ```winetricks```
 
-On my Manjoro Linux installation it opens an UI, In it press "Select the default wineprefix", Then steer to "Install an Windows DLL or Component. Then select: "vcrun2019, vcrun2017, vcrun2015 and dotnet9", Proceed to exit the UI after saving.
+On my Manjoro Linux installation it opens an UI, In it press "Select the default wineprefix", Then steer to "Install an Windows DLL or Component. Then select: "vcrun2019, vcrun2017, vcrun2015 and dotnet48", Proceed to exit the UI after saving.
 
 
 
